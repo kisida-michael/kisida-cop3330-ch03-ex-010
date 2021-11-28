@@ -7,7 +7,7 @@
 #include <iostream>
 using namespace std;
 
-double mul(char, double, double);
-double div(char, double, double);
-double sub(char, double, double);
-double add(char, double, double);
+double mul(double, double);
+double div(double, double);
+double sub(double, double);
+double add(double, double);
